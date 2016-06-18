@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: 'S:\dev\xampp\htdocs\DepartureAirportControl\DepartureAirportControl_symfony_2_8\app/config/routing_dev.yml'
